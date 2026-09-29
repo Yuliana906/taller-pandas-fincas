@@ -1,0 +1,5 @@
+# Preferencias locales del editor
+.vscode/
+
+# Entorno virtual
+datos/
